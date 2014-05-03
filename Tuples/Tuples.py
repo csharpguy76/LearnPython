@@ -1,2 +1,3 @@
 myTuple = (1, 2, 3)
-print(myTuple)
+for a in myTuple:
+    print(a)
